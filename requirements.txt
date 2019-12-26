@@ -1,0 +1,7 @@
+ansicolor
+argparse
+bs4
+cx_Oracle
+hashlib
+pyjks
+requests
